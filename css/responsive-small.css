@@ -1,0 +1,43 @@
+/*
+ *
+ * Common
+ *
+ */
+
+h1 {
+    font-size: 1.2em;
+}
+
+h2 {
+    font-size: 1em;
+}
+
+/*
+ *
+ * Header
+ *
+ */
+
+.header-content {
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-logo {
+    width: 100px;
+}
+
+.header-text {
+    text-align: center;
+}
+
+/*
+ *
+ * Footer
+ *
+ */
+
+.contact-item {
+    font-size: 2em;
+}
